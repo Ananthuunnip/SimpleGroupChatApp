@@ -1,0 +1,16 @@
+#ignored compiled files
+*.class
+*.jar
+
+#ignore logs
+/logos/
+
+#ignore IDE configuration files
+
+.idea/
+
+# ignore temporary files
+*.tmp 
+
+node_modules/
+
